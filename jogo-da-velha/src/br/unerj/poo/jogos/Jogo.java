@@ -25,7 +25,7 @@ public class Jogo {
 		if (jogadaEhValida) {
 			tabuleiro.setCasa(x, y, new Peca(vez));
 		}
-//aqui tinha um R que foi retirado
+//aqui tinha um R que foi retirado, comentário teste
 		
 		return jogadaEhValida;
 	}
