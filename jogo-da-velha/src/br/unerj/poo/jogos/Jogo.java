@@ -24,7 +24,8 @@ public class Jogo {
 		
 		if (jogadaEhValida) {
 			tabuleiro.setCasa(x, y, new Peca(vez));
-		}r
+		}
+//aqui tinha um R que foi retirado
 		
 		return jogadaEhValida;
 	}
